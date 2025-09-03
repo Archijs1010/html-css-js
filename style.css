@@ -1,0 +1,23 @@
+body {background-color: black;}
+p {color: beige;}
+div {color: aliceblue;}
+
+div {
+  padding-top: 70px;
+  padding-right: 150px;
+  padding-bottom: 50px;
+  padding-left: 850px;
+}
+img {
+    padding-top: 70px;
+  padding-right: 150px;
+  padding-bottom: 50px;
+  padding-left: 750px;
+}
+
+p {
+    padding-top: 70px;
+  padding-right: 150px;
+  padding-bottom: 50px;
+  padding-left: 750px;
+}
